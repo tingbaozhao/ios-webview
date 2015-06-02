@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>WebViewApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>WebViewSwiftDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>WebViewSwiftView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>WebViewTargetDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1BD41A8416C10EAB009D6B32</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41F7F5591B101AC4005563DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41F7F5741B101AC4005563DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41F7F5861B105C49005563DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41F7F59D1B105C49005563DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41F7F5AF1B10680B005563DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41F7F5C61B10680B005563DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
