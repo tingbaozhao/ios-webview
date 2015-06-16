@@ -25,8 +25,8 @@ public class OpenWeb
 	public void setUp() throws Exception {
 		// set up appium
 		// 获得工程路径，绝对路径
-		//File appDir = new File("/Users/Shared/Jenkins/Home/jobs/iOS4Web/workspace/ios-webview-app-master/build/Release-iphonesimulator");
-		File appDir = new File("/Users/tingbaozhao/tmp");
+		File appDir = new File("/Users/Shared/Jenkins/Home/jobs/iOS4Web/workspace/ios-webview-app-master/build/Release-iphonesimulator");
+		//File appDir = new File("/Users/tingbaozhao/tmp");
 		File app = new File(appDir, "WebViewApp.app");
 		if (!app.exists()) {
 			throw new RuntimeException(app.getAbsolutePath()
